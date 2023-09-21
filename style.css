@@ -1,0 +1,10 @@
+.group{
+    width: 200px;
+    height: 300px;
+    background-color: bisque;
+    border-style: solid;
+}
+
+#unsorted{
+    background-color: aquamarine;
+}
